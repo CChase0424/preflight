@@ -13,11 +13,11 @@ jobs:
       - run: npm ci
       - run: npm run build --if-present
       # smoke test your scanner on a couple of zips
-      - run: node src/cli.js scan test-apps/apps/swift-2048-master.zip --output out.json
-      - run: node src/cli.js scan test-apps/apps/RaceMe-master.zip --output out2.json
+      - run: node src/cli.js scan test-apps/apps/swift-2048-master.zip
+      - run: node src/cli.js scan test-apps/apps/RaceMe-master.zip
       - uses: actions/upload-artifact@v4
         with: 
           name: preflight-reports
           path: |
-            out.json
-            out2.json
+            test-apps/reports/swift-2048-master-report.json
+            test-apps/reports/RaceMe-master-report.json
