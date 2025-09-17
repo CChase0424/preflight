@@ -1,0 +1,25 @@
+{
+  "schema": "preflight-1",
+  "scanId": "scan_1758068378934_xzrrqezxj",
+  "source": ".\\test-apps\\apps\\swift-2048-master.zip",
+  "timestamp": "2025-09-17T00:19:38.934Z",
+  "files": [
+    {
+      "path": "temp/scan_1758068378934_xzrrqezxj/swift-2048-master/swift-2048.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068378934_xzrrqezxj/swift-2048-master/swift-2048Tests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068378934_xzrrqezxj/swift-2048-master/swift-2048/Info.plist",
+      "type": "plist"
+    }
+  ],
+  "summary": {
+    "pbxproj": 1,
+    "plist": 2,
+    "entitlements": 0
+  }
+}

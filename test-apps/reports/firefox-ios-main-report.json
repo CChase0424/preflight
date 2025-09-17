@@ -1,0 +1,245 @@
+{
+  "schema": "preflight-1",
+  "scanId": "scan_1758068266135_uxwbltzxn",
+  "source": ".\\test-apps\\apps\\firefox-ios-main.zip",
+  "timestamp": "2025-09-17T00:17:46.135Z",
+  "files": [
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/SampleBrowser/SampleBrowser.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/SampleBrowser/SampleBrowser/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/SampleComponentLibraryApp/SampleComponentLibraryApp.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/SampleComponentLibraryApp/SampleComponentLibraryApp/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Account/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client.xcodeproj/xcshareddata/xcbaselines/2FCAE2231ABB51F800877008.xcbaseline/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client.xcodeproj/xcshareddata/xcbaselines/E6F9650B1B2F1CF20034B023.xcbaseline/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client/Entitlements/FennecApplication.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client/Entitlements/FennecEnterpriseApplication.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client/Entitlements/FirefoxApplication.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client/Entitlements/FirefoxBetaApplication.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Client/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/CredentialProvider/CredentialProvider.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/CredentialProvider/CredentialProviderFennec.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/CredentialProvider/CredentialProviderFirefox.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/CredentialProvider/CredentialProviderFirefoxBeta.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/CredentialProvider/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Extensions/Entitlements/Fennec.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Extensions/Entitlements/FennecEnterprise.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Extensions/Entitlements/Firefox.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Extensions/Entitlements/FirefoxBeta.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Extensions/NotificationService/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Extensions/ShareTo/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Shared/Supporting Files/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Storage/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/Sync/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/ThirdParty/Deferred/Deferred.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/ThirdParty/Deferred/DeferredMacTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/ThirdParty/Deferred/DeferredMac/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/ThirdParty/Deferred/DeferredTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/WidgetKit/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/AccountTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/ClientTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/L10nSnapshotTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/SharedTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/StoragePerfTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/StorageTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/SyncTelemetryTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/SyncTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/UITests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/firefox-ios-tests/Tests/XCUITests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/firefox-ios/sticker/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/Blockzilla.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/Blockzilla/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/ContentBlocker/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/Focus.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/FocusEnterprise.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/FocusIntentExtension/FocusIntentExtension.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/FocusIntentExtension/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/Klar.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/KlarEnterprise.entitlements",
+      "type": "entitlements"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/OpenInFocus/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/Widgets/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/focus-ios-tests/ClientTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/focus-ios-tests/ScreenshotTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068266135_uxwbltzxn/firefox-ios-main/focus-ios/focus-ios-tests/XCUITest/Info.plist",
+      "type": "plist"
+    }
+  ],
+  "summary": {
+    "pbxproj": 5,
+    "plist": 36,
+    "entitlements": 17
+  }
+}

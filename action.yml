@@ -1,0 +1,26 @@
+# GitHub Action placeholder for future implementation
+# This will be implemented when ready to publish to GitHub Marketplace
+
+name: 'Preflight iOS App Scanner'
+description: 'Universal iOS app scanner for ZIP files - analyzes Info.plist, project.pbxproj, and entitlements'
+author: 'CChase0424'
+branding:
+  icon: 'search'
+  color: 'blue'
+
+# TODO: Implement when ready for GitHub Action
+# runs:
+#   using: 'node20'
+#   main: 'dist/action.js'
+
+# inputs:
+#   source:
+#     description: 'ZIP file or directory to scan'
+#     required: true
+#   output:
+#     description: 'Output file path'
+#     required: false
+#   verbose:
+#     description: 'Enable verbose output'
+#     required: false
+#     default: 'false'

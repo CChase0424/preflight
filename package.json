@@ -1,22 +1,28 @@
 {
   "name": "preflight",
   "version": "1.0.0",
-  "description": "Preflight project with Codex integration",
-  "main": "index.js",
+  "description": "Universal app scanner for ZIP files",
+  "main": "src/cli.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/cli.js",
+    "scan": "node src/cli.js",
+    "build": "echo 'Build step - copy src to dist' && mkdir -p dist && cp -r src/* dist/",
+    "test": "node src/cli.js scan test-apps/apps/swift-2048-master.zip"
   },
-  "keywords": ["codex", "chatgpt", "integration"],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["scanner", "analysis", "zip"],
+  "author": "CChase0424",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.3.1"
+    "axios": "^1.6.0",
+    "yauzl": "^3.0.0",
+    "plist": "^3.0.5",
+    "glob": "^10.3.0",
+    "fs-extra": "^11.1.1",
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
+  "bin": {
+    "preflight": "./src/cli.js"
   }
 }

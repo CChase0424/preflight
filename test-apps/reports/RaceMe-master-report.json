@@ -1,0 +1,21 @@
+{
+  "schema": "preflight-1",
+  "scanId": "scan_1758068245364_qqf27jb6s",
+  "source": ".\\test-apps\\apps\\RaceMe-master.zip",
+  "timestamp": "2025-09-17T00:17:25.364Z",
+  "files": [
+    {
+      "path": "temp/scan_1758068245364_qqf27jb6s/RaceMe-master/RaceMe.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068245364_qqf27jb6s/RaceMe-master/RaceMe/Info.plist",
+      "type": "plist"
+    }
+  ],
+  "summary": {
+    "pbxproj": 1,
+    "plist": 1,
+    "entitlements": 0
+  }
+}

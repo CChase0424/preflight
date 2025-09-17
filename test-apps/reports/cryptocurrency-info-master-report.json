@@ -1,0 +1,29 @@
+{
+  "schema": "preflight-1",
+  "scanId": "scan_1758068256118_x4ostz6sb",
+  "source": ".\\test-apps\\apps\\cryptocurrency-info-master.zip",
+  "timestamp": "2025-09-17T00:17:36.118Z",
+  "files": [
+    {
+      "path": "temp/scan_1758068256118_x4ostz6sb/Cryptocurrency-Info-master/CryptocurrencyInfo.xcodeproj/project.pbxproj",
+      "type": "pbxproj"
+    },
+    {
+      "path": "temp/scan_1758068256118_x4ostz6sb/Cryptocurrency-Info-master/CryptocurrencyInfoTests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068256118_x4ostz6sb/Cryptocurrency-Info-master/CryptocurrencyInfoUITests/Info.plist",
+      "type": "plist"
+    },
+    {
+      "path": "temp/scan_1758068256118_x4ostz6sb/Cryptocurrency-Info-master/CryptocurrencyInfo/Info.plist",
+      "type": "plist"
+    }
+  ],
+  "summary": {
+    "pbxproj": 1,
+    "plist": 3,
+    "entitlements": 0
+  }
+}
